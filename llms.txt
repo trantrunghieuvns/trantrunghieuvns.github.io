@@ -1,0 +1,59 @@
+# RickThePianist — Free Printable Piano Sheet Music PDFs & Felt Piano Tutorials
+
+> Official piano sheet music library and practice hub by RickThePianist (`https://www.youtube.com/@rickthepianist`). Offers 11 100% legal Public Domain printable piano sheet music PDFs (US Letter 8.5x11 in & A4) at $0 cost, 31 solo felt-piano chord & practice guides, interactive free piano tools, and calm zero-copyright-claim Christmas, Classical, and Deep Focus Study piano playlists.
+
+## Core Downloads & Storefront
+- [Free 11-Song Public Domain Piano Sheet Pack ($0+ PDF)](https://rickthepianist.gumroad.com/l/free-piano-sheets): Instant printable US Letter & A4 PDF bundle of 11 verified Public Domain Christmas & Classical piano arrangements.
+- [44-Page Winter & Classical Felt Piano Sheet Book + 11 MIDIs ($9.99)](https://rickthepianist.gumroad.com/l/winter-classical-piano-book): Complete engraved collection with MIDI practice files.
+- [RickThePianist YouTube Channel](https://www.youtube.com/@rickthepianist): 3D perspective falling-notes felt piano Shorts, 1-hour+ Christmas & Study playlists, and 0-claim Public Domain live streams.
+- [Main Hub Home](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/): Browse all 42 pieces by mood, key, BPM, and difficulty.
+
+## Free Interactive Piano Tools
+- [Piano Chord Finder & Key Transposer](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/tools/piano-chord-finder-transposer.html): Interactive chord voicings and instant key transposition.
+- [Printable Blank Piano Sheet Music PDF (US Letter & A4)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/tools/blank-piano-sheet-music-pdf.html): Generate clean printable grand-staff manuscript paper.
+
+## Curated Collections
+- [Free Christmas & Winter Piano Sheet Music PDF (2026 Holiday Collection)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/collections/christmas-piano-sheet-music-pdf.html): 
+- [Free Classical Piano Sheet Music PDF — Beethoven, Chopin, Bach, Satie & Vivaldi](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/collections/classical-piano-sheet-music-pdf.html): 
+- [Vietnamese-American Piano Tutorials, Chords & Nhạc Hải Ngoại Felt Piano Guides](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/collections/vietnamese-piano-sheets-tutorials.html): 
+- [Cinema, Studio Ghibli & Anime OST Piano Tutorials & Chord Guides](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/collections/cinema-anime-piano-tutorials.html): 
+- [2026 Viral Pop Piano Tutorials, Chords & Felt Piano Practice Guides](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/collections/viral-pop-piano-tutorials.html): 
+
+## 100% Free Public Domain Piano Sheet Music PDFs (11 Pieces)
+- [O Holy Night (Cantique de Noël) — Adolphe Adam](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/o-holy-night-cantique-de-noel.html): Free printable US Letter & A4 PDF | Key: C major | Tempo: 64 BPM (6/8) | Difficulty: Intermediate | Range: C1-Eb7.
+- [Carol of the Bells — Mykola Leontovych (1916)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/carol-of-the-bells.html): Free printable US Letter & A4 PDF | Key: G minor | Tempo: 161 BPM (3/4) | Difficulty: Upper Intermediate | Range: G1-Ab7.
+- [Moonlight Sonata (1st Movement) — Ludwig van Beethoven (1801)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/moonlight-sonata-1st-movement.html): Free printable US Letter & A4 PDF | Key: C# minor | Tempo: 56 BPM (4/4) | Difficulty: Early Intermediate | Range: F#1-Ab6.
+- [Nocturne Op. 9 No. 2 — Frédéric Chopin (1832)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/nocturne-op-9-no-2.html): Free printable US Letter & A4 PDF | Key: Eb major | Tempo: 66 BPM (12/8) | Difficulty: Intermediate | Range: Ab1-D6.
+- [Gymnopédie No. 1 — Erik Satie (1888)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/gymnopedie-no-1.html): Free printable US Letter & A4 PDF | Key: D major / B minor | Tempo: 72 BPM (3/4) | Difficulty: Beginner-Friendly | Range: A1-A5.
+- [Prelude in C Major (BWV 846) — Johann Sebastian Bach](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/prelude-in-c-major-bwv-846.html): Free printable US Letter & A4 PDF | Key: C major | Tempo: 74 BPM (4/4) | Difficulty: Early Intermediate | Range: C2-A5.
+- [Dance of the Sugar Plum Fairy — Pyotr Ilyich Tchaikovsky (1892)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/dance-of-the-sugar-plum-fairy.html): Free printable US Letter & A4 PDF | Key: E minor | Tempo: 88 BPM (2/4) | Difficulty: Intermediate | Range: B1-G7.
+- [Winter (The Four Seasons) — Antonio Vivaldi (1725)](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/winter-the-four-seasons.html): Free printable US Letter & A4 PDF | Key: F minor | Tempo: 124 BPM (4/4) | Difficulty: Upper Intermediate | Range: G1-G6.
+- [Passacaglia — Handel / Halvorsen](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/passacaglia.html): Free printable US Letter & A4 PDF | Key: A minor | Tempo: 123 BPM (4/4) | Difficulty: Upper Intermediate | Range: C2-G7.
+- [Auld Lang Syne (New Year Piano) — Robert Burns / Traditional](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/auld-lang-syne-new-year-piano.html): Free printable US Letter & A4 PDF | Key: F major | Tempo: 72 BPM (4/4) | Difficulty: Early Intermediate | Range: C2-E6.
+- [We Wish You a Merry Christmas — Traditional Holiday Carol](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/we-wish-you-a-merry-christmas.html): Free printable US Letter & A4 PDF | Key: G major | Tempo: 112 BPM (4/4) | Difficulty: Upper Intermediate | Range: G1-C7.
+
+## Solo Felt Piano Tutorials & Chord Guides (31 Pieces)
+- [Stop The Wedding! — Ashe](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/stop-the-wedding.html): Felt piano chords & practice guide | Key: E major | 136 BPM | Intermediate.
+- [Die With A Smile — Lady Gaga & Bruno Mars](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/die-with-a-smile.html): Felt piano chords & practice guide | Key: A major | 78 BPM | Intermediate.
+- [APT. — ROSÉ & Bruno Mars](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/apt.html): Felt piano chords & practice guide | Key: C minor | 149 BPM | Upper Intermediate.
+- [Phép Màu — MAYDAYs ft. Minh Tốc](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/phep-mau.html): Felt piano chords & practice guide | Key: C major | 72 BPM | Early Intermediate.
+- [Niệm Khúc Cuối — Ngô Thụy Miên](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/niem-khuc-cuoi.html): Felt piano chords & practice guide | Key: D major | 93 BPM | Early Intermediate.
+- [Interstellar Main Theme (Cornfield Chase) — Hans Zimmer](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/interstellar-main-theme-cornfield-chase.html): Felt piano chords & practice guide | Key: E minor | 99 BPM | Intermediate.
+- [Merry-Go-Round of Life (Howl's Moving Castle) — Joe Hisaishi](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/merry-go-round-of-life-howl-s-moving-castle.html): Felt piano chords & practice guide | Key: D minor | 76 BPM | Intermediate.
+- [All I Want For Christmas Is You — Mariah Carey](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/all-i-want-for-christmas-is-you.html): Felt piano chords & practice guide | Key: G major | 112 BPM | Upper Intermediate.
+- [Arcade — Duncan Laurence](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/arcade.html): Felt piano chords & practice guide | Key: F major | 112 BPM | Early Intermediate.
+- [Atlantis — Seafret](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/atlantis.html): Felt piano chords & practice guide | Key: A minor | 99 BPM | Upper Intermediate.
+- [Babydoll — Jamie Miller](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/babydoll.html): Felt piano chords & practice guide | Key: F major | 117 BPM | Intermediate.
+- [back to friends — sombr](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/back-to-friends.html): Felt piano chords & practice guide | Key: Db major | 96 BPM | Early Intermediate.
+- [Birds of a Feather — Billie Eilish](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/birds-of-a-feather.html): Felt piano chords & practice guide | Key: D major | 103 BPM | Intermediate.
+- [Happy New Year — ABBA](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/happy-new-year.html): Felt piano chords & practice guide | Key: A major | 96 BPM | Early Intermediate.
+- [Kết Thúc Và Chia Tay — Nam Em](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/ket-thuc-va-chia-tay.html): Felt piano chords & practice guide | Key: F# minor | 89 BPM | Early Intermediate.
+- [La Maritza — Sylvie Vartan](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/la-maritza.html): Felt piano chords & practice guide | Key: D minor | 120 BPM | Intermediate.
+- [Last Christmas — George Michael / Wham!](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/last-christmas.html): Felt piano chords & practice guide | Key: D major | 106 BPM | Upper Intermediate.
+- [Mariage d'Amour — Paul de Senneville](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/mariage-d-amour.html): Felt piano chords & practice guide | Key: G minor | 81 BPM | Intermediate.
+- [Người Điên Nặng — tlinh](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/nguoi-ien-nang.html): Felt piano chords & practice guide | Key: E minor | 106 BPM | Early Intermediate.
+- [Người Ấy — Trịnh Thăng Bình](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/songs/nguoi-ay.html): Felt piano chords & practice guide | Key: Db major | 114 BPM | Early Intermediate.
+
+## Extended Catalog
+- [Full Machine-Readable Catalog (llms-full.txt)](https://trantrunghieuvns.github.io/llms-full.txt)
+- [XML Sitemap](https://trantrunghieuvns.github.io/rickthepianist-free-sheets/sitemap.xml)
